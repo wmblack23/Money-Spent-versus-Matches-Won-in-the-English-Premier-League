@@ -2,7 +2,7 @@
 
 This notebook examines **the role that money plays in teams' success in the English Premier League dating back to the 2000-2001 season.**
 
-- We load 14 datasets into our notebook via Pandas and Excel, and find the data for the remaining four seasons by scraping popular websites for EPL final standings and wage bills data.
+- We load season data from 2000-'01 until 2019-'20 via Excel with Pandas.  Data was found on Reddit, The Guardian, and Planet Football (linked in file).
 
 - We use mplcursors and the %matplotlib notebook feature to create interactive sns.regplot graphs where we can click on various points on the graph to learn which team it corresponds to.  By clicking on a point on the graph, we are also able to learn what that teams wage bill, final standings, and points earned were for that season.
 
